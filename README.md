@@ -2,6 +2,8 @@
 
 En este repositorio se encuentra una guía completa de los conceptos más importantes de programación. Explicados de una manera sencilla y resumida, de una manera poco ténica, excepto cuando haga falta saber a detalle los conceptos para conocerlos realmente bien. 
 
+# Índice de contenidos 
+
 # Sistemas Operativos
 * **¿Qué es un sistema operativo?**
 * **¿Cuál es su función?**
