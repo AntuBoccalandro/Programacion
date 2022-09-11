@@ -1,0 +1,109 @@
+# Programación
+
+En este repositorio se encuentra una guía completa de los conceptos más importantes de programación. Explicados de una manera sencilla y resumida, de una manera poco ténica, excepto cuando haga falta saber a detalle los conceptos para conocerlos realmente bien. 
+
+# Sistemas Operativos
+* **¿Qué es un sistema operativo?**
+* **¿Cuál es su función?**
+* **Componentes**
+    * Núcleo
+    * Controladores de dispositivos
+    * Gestión de procesos
+    * Gestión de la memoria
+    * Gestión del almacenamiento secundario
+    * Sistema de entrada y salida
+    * Sistema de archivos
+    * Sistemas de protección
+    * Sistema de comunicaciones
+    * Programas de sistema
+    * Gestor de recursos
+    * Interfaz de usuario
+* **Tipos de sistemas operativos según: administración de tareas**
+    * Monotarea
+    * Multitarea
+* **Tipos de sistemas operativos según:nadministración de usuarios**
+    * Monousuario
+    * Multiusuarios
+* **Tipos de sistemas operativos según: administración de seciones**
+    * Monoseción
+    * Multiseción
+* **Tipos de sistemas operativos según: manejo de recursos**
+    * Centralizado
+    * Distribuido
+* **Unix**
+    * Linux
+    * Mac
+* **MS-DOS**
+    * Windows
+
+# Introducción a la programación I
+* **¿Qué es la programación?**
+* **¿Qué es un programa?**
+    * Características básicas de los programas
+    * Formas de crear programas
+* **¿Qué es un lenguaje de programación?**
+    * Operaciones básicas de todo lenguaje de programación
+    * **Clasificación de los lenguajes según: compilación**
+        * ¿Qué es la compilación de un programa?
+        * Pasos de la compilación
+        * Compilación antes de ejecución
+        * Compilación en tiempo de ejecución
+    * **Clasificación de los lenguajes según: paradigma**
+        * ¿Qué es el paradigma de programación?
+        * Estrucurada/secuencial
+        * Orientada a objetos
+        * Funcional
+        * Reactiva
+        * Multiparadigma
+    * **Clasificación de los lenguajes según: propósito**
+        * ¿Qué es el propósito?
+        * General
+        * Espesífico
+    * **Clasificación de los lenguajes según: nivel**
+        * ¿Qué es el nivel?
+        * Alto nivel
+        * Medio nivel
+        * Bajo nivel
+    * **Clasificación de los lenguajes según: tipado**
+        * ¿Qué es el tipado?
+        * Tipados
+        * No tipados
+
+# Resolución de problemas
+* **Algortimos**
+    * **¿Qué es?**
+    * **Características de los algoritmos**
+    * **Diseño de algoritmos**
+        * Fases de la creación de algoritmos
+        * **Métodos de representación de algoritmos**
+            * Fórmulas
+            * Lenguaje Humano
+            * Pseudocódigo
+            * Diagramas de flujo
+            * Diagramas N-S
+
+# Introducción a la programación II:
+* **Tipos de datos**
+    * **Simples**
+        * **Numéricos**
+            * Números enteros
+            * Números reales
+        * **Lógicos**
+            * Booleanos
+        * **Caracteres**
+            * Caracter
+            * Cadena de caracteres
+    * **Estructurados**
+* **Variables**
+    * Asignación de variables
+* **Constantes**
+* **Operadores**
+    * **Operadores aritméticos**
+        * Operadores aritméticos
+        * Operadores de incremento y decremento
+        * Reglas de prioridad de operadores aritméticos
+    * **Operadores lógicos**
+        * Operadores lógicos
+        * Operadores de relación
+        * Reglas de prioridad de operadores lógicos
+    * **Operadores de comparación**
