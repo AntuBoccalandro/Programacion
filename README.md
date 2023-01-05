@@ -1,9 +1,3 @@
-# Programación
-
-En este repositorio se encuentra una guía completa de los conceptos más importantes de programación. Explicados de una manera sencilla y resumida, de una manera poco ténica, excepto cuando haga falta saber a detalle los conceptos para conocerlos realmente bien. 
-
-# Índice de contenidos 
-
 # Sistemas Operativos
 * **¿Qué es un sistema operativo?**
 * **¿Cuál es su función?**
@@ -108,4 +102,15 @@ En este repositorio se encuentra una guía completa de los conceptos más import
         * Operadores lógicos
         * Operadores de relación
         * Reglas de prioridad de operadores lógicos
-    * **Operadores de comparación**
+* **Estructuras selectvas**
+  * Si
+  * Si no
+  * Si no Si
+  * Según Sea
+  * Estructuras anidadas
+* **Estructuras repetitivas**
+  * Mientras hacer
+  * Hacer mientras
+  * Repetir
+  * para
+  * Estructuras repetitivas anidadas
